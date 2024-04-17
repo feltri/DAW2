@@ -1,0 +1,1 @@
+Sessão - toda vez que fecha o browser/página, as informações não são salvas, enquanto nos cookies, os dados ficam salvos (se você programar para isso).
