@@ -1,0 +1,15 @@
+{
+    "name": "monique/sisfin",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Sisfin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Monique Feltri | RA: 201096"
+        }
+    ],
+    "require": {}
+}
