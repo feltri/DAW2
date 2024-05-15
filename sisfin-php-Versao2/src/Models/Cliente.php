@@ -201,7 +201,7 @@ use Sisfin\Util\TipoPessoa;
         return $this->_limite;
     }
 
-    public function setLimite(string $limite): Cliente
+    public function setLimite(float $limite): Cliente
     {
         $this->_limite = $limite;
         return $this;
